@@ -1,0 +1,11 @@
+{
+  "name": "globaltv",
+  "version": "1.0",
+  "dependencies": {
+    "angular": "1.5.2",
+    "angular-route": "1.5.2",
+    "angular-cookies": "1.5.2",
+    "requirejs": "2.2.0",
+    "spring-security-csrf-token-interceptor": "0.1.5"
+  }
+}
